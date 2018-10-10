@@ -1,0 +1,79 @@
+body{
+	background-image: url(images5/Back.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: cover;
+
+}
+header{
+	background-color: #F6A904;
+	opacity: 0.7;
+	height: 50px;
+}
+
+header .row .col:hover{
+	background-color: black;
+	height: 50px;
+
+}
+
+header div h3 a{
+	color: white;
+}
+section{
+	background-color: #BEBEBE44;
+	margin-bottom: 300px;
+
+}
+h3{
+	color: white;
+	margin: 10px;
+	text-align: center;
+}
+
+h4{
+	color: white;
+	font-size: 28px;
+	text-align: center;
+	margin: 20px;
+}
+
+h5{
+	color: #E1E1E1;
+	padding-bottom: 100px;
+	text-align: center;
+	font-size: 22px;
+}
+h2{
+	font-size: 70px;
+	text-align: center;
+	font-family: Marker Felt;
+	padding-top: 250px;
+	color: #E1E1E1;
+}
+
+p{
+	color: white;
+	font-size: 20px;
+}
+img{
+	height: 300px;
+	margin-bottom: 20px;
+	border-radius: 25px;
+}
+
+img{
+	height: 200px;
+	margin-bottom: 20px;
+	border-radius: 25px;
+}
+img{
+	height: 200px;
+	margin-bottom: 20px;
+	border-radius: 25px;
+}
+img{
+	height: 200px;
+	margin-bottom: 20px;
+	border-radius: 25px;
+}
